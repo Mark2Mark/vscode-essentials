@@ -27,5 +27,6 @@ See website for all the features.
     "plugins": ["jsdom-quokka-plugin"]
 }
 ```
+- In order to link a JS file with an html file, [check this.](https://github.com/wallabyjs/quokka/issues/611#issue-853222936)
 
 ## …
