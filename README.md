@@ -19,5 +19,7 @@ Rapid JavaScript Prototyping.
 See website for all the features.
 - Needs node.js installed
 - Optionally needs [JSDOM installed](https://quokkajs.com/docs/configuration.html#jsdom) to node.js `npm install jsdom` in order to use it for browser variables like `document` etc.
+  - Then cd to `~/.quokka` where you find the quokka global settings `config.json` file.
+  - Add `{ "plugins": ["jsdom-quokka-plugin"] }` to it.
 
 ## …
