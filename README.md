@@ -17,5 +17,7 @@ Rapid JavaScript Prototyping.
 ![img](https://quokkajs.com/assets/img/vsc-val.gif)  
 
 See website for all the features.
+- Needs node.js installed
+- Optionally needs JSDOM installed to node.js `npm install jsdom` in order to use it for browser variables like `document` etc.
 
 ## …
