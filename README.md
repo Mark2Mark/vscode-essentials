@@ -18,6 +18,6 @@ Rapid JavaScript Prototyping.
 
 See website for all the features.
 - Needs node.js installed
-- Optionally needs JSDOM installed to node.js `npm install jsdom` in order to use it for browser variables like `document` etc.
+- Optionally needs [JSDOM installed](https://quokkajs.com/docs/configuration.html#jsdom) to node.js `npm install jsdom` in order to use it for browser variables like `document` etc.
 
 ## …
