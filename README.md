@@ -25,7 +25,7 @@ See website for all the features.
 {
     "pro": true,
     "plugins": ["jsdom-quokka-plugin"]
-}```
-
+}
+```
 
 ## …
