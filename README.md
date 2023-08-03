@@ -29,4 +29,32 @@ See website for all the features.
 ```
 - In order to link a JS file with an html file, [check this.](https://github.com/wallabyjs/quokka/issues/611#issue-853222936)
 
+## Prettier
+
+## Pylance
+
+## Black Formatter
+
+## Dup Checker
+
+## File Tree to Text Generator
+
+## GitLens
+
+## indent-rainbow
+
+## markdownlint
+
+## Markdown Preview Enhanced
+
+## PHP Intellephense
+
+## PHP Refactoring
+
+## TODO Highlight v2
+
+## Todo Tree
+
+## YAML
+
 ## …
